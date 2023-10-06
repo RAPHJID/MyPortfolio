@@ -1,4 +1,5 @@
 Jidraf's Portfolio Website
+
 Welcome to the repository of my portfolio website! This site is a reflection of my journey as a developer/designer and showcases my skills, projects, and experiences.
 
 Features
